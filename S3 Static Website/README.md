@@ -2,7 +2,7 @@
 Welcome to this quick guide on hosting a static website using AWS S3 (Simple Storage Service). This README summarizes the key steps from the [full article](https://medon.hashnode.dev/how-to-host-your-website-on-amazon-s3-a-step-by-step-guide), authored by Ahmed Salau.
 ## Introduction
 If you're looking to host a static website on a budget, AWS S3 provides a simple, fast, and cost-efficient solution. With S3, you only pay for the storage you actually use, and you can take advantage of the AWS Free Tier, which offers up to 5GB of storage free for the first year.
-## Step-by-Step Guide
+## 📝 Step-by-Step Guide
 Follow these steps to host your static website on AWS S3:
 
 1. **Create an S3 Bucket**
@@ -55,8 +55,8 @@ Once static website hosting is enabled, AWS will provide you with an endpoint UR
 
     - You can now visit this URL to access your static website.
 
-## 🎉 Conclusion
-By following these steps, you can effortlessly host your static website on AWS S3, taking advantage of its ease of use, fast performance, and cost-efficiency. Enjoy the process of launching your website!
+## 🎉 Conclusion 
+By following these steps, you can effortlessly host your static website on AWS S3, taking advantage of its ease of use, fast performance, and cost-efficiency. Enjoy the process of launching your website! 🏆
 
 For a comprehensive guide and detailed instructions, please refer to the original article: [**How to Host Your Website on Amazon S3: A Step-by-Step Guide**](https://medon.hashnode.dev/how-to-host-your-website-on-amazon-s3-a-step-by-step-guide).
 
