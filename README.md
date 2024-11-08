@@ -14,3 +14,8 @@ Browse through the variety of projects featured in this portfolio:
 - **Description**: Hosting a static website on AWS S3.
 - **Technologies Used**: AWS S3.
 - Link to Project README
+
+### Project 2: Data Visualization with AWS QuickSight and S3
+- **Description**: This project focuses on visualizing data using AWS QuickSight sourced from AWS S3.
+- **Technologies Used**: AWS S3, AWS QuickSight.
+- Link to Project README
