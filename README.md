@@ -13,7 +13,7 @@ Browse through the variety of projects featured in this portfolio:
 ### Project 1: S3 Static Website
 - **Description**: Hosting a static website on AWS S3.
 - **Technologies Used**: AWS S3.
-- Link to Project README
+- [Link to Project README](https://github.com/Medonati/AWS-Projects-Portfolio/blob/main/S3%20Static%20Website/README.md)
 
 ### Project 2: Data Visualization with AWS QuickSight and S3
 - **Description**: This project focuses on visualizing data using AWS QuickSight sourced from AWS S3.
