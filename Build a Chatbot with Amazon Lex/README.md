@@ -1,16 +1,7 @@
-# AWS-Projects-Portfolio
-Welcome to my AWS Projects Portfolio! This repository highlights my expertise in utilizing a range of AWS services, presented through a series of well-organized projects. Each project is contained within its own dedicated directory, providing a clear demonstration of my AWS skills and capabilities.
-## Table of Contents
-Getting Started
-Contact Information
-About Me
-## About Me
-Hello, I'm Ahmed Salau, and I'm passionate about cloud computing and AWS. This portfolio showcases my ability to design, build, and manage AWS solutions across a variety of use cases. Explore each project to gain insight into my approach to AWS architecture and problem-solving.
+# Unlock the Power of Data: Transforming Insights with AWS QuickSight
+In today's data-driven world, turning raw data into actionable insights is crucial. Data visualization plays a key role in unlocking this potential, and AWS QuickSight stands out as a powerful tool for cloud-based analytics. By seamlessly connecting with securely stored data on Amazon S3, QuickSight transforms your data into compelling visual insights. In this blog, we’ll explore how the combination of AWS QuickSight and Amazon S3 can elevate your data analysis, creating clear, impactful visualizations. Whether you’re an entrepreneur, data analyst, or executive, join me as I unlock the full potential of your data and show how AWS QuickSight can help you visualize your data in powerful ways.
 
-## Projects Overview
-Browse through the variety of projects featured in this portfolio:
+This README summarizes the key steps from the [full article](https://medon.hashnode.dev/unlock-the-power-of-data-transforming-insights-with-aws-quicksight), authored by Ahmed Salau.
 
-### Project 1: S3 Static Website
-- **Description**: Hosting a static website on AWS S3.
-- **Technologies Used**: AWS S3.
-- Link to Project README
+## Introduction
+If you're looking to create insightful data visualizations on a budget, Amazon QuickSight provides a powerful, scalable, and cost-effective solution. With QuickSight, you only pay for the sessions you use, making it ideal for dynamic, on-demand analytics. Plus, you can leverage the AWS Free Tier, which includes access to QuickSight Standard for the first 30 days, giving you a head start on data-driven insights at no extra cost.
