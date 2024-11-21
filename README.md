@@ -18,4 +18,4 @@ Browse through the variety of projects featured in this portfolio:
 ### Project 2: Data Visualization with AWS QuickSight and S3
 - **Description**: This project focuses on visualizing data using AWS QuickSight sourced from AWS S3.
 - **Technologies Used**: AWS S3, AWS QuickSight.
-- Link to Project README
+- [Link to Project README](https://github.com/Medonati/AWS-Projects-Portfolio/blob/main/Data%20Visualization%20with%20Amazon%20QuickSight%20and%20S3/README.md)
