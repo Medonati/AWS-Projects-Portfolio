@@ -21,6 +21,6 @@ Browse through the variety of projects featured in this portfolio:
 - [Link to Project README](https://github.com/Medonati/AWS-Projects-Portfolio/blob/main/Data%20Visualization%20with%20Amazon%20QuickSight%20and%20S3/README.md)
 
 ### Project 3: Build a Chatbot with Amazon Lex
-- **Description**: This project focuses on building a chatbot with Amazon Lex and connecting AWS Lambda function with your Amazon Lex chatbot.
+- **Description**: This project focuses on building a chatbot with Amazon Lex and connecting AWS Lambda function with the chatbot.
 - **Technologies Used**: Amazon Lex, AWS Lambda.
 - [Link to Project README](https://github.com/Medonati/AWS-Projects-Portfolio/blob/main/Build%20a%20Chatbot%20with%20Amazon%20Lex/README.md)
