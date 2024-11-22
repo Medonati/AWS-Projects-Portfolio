@@ -19,3 +19,8 @@ Browse through the variety of projects featured in this portfolio:
 - **Description**: This project focuses on visualizing data using AWS QuickSight sourced from AWS S3.
 - **Technologies Used**: AWS S3, AWS QuickSight.
 - [Link to Project README](https://github.com/Medonati/AWS-Projects-Portfolio/blob/main/Data%20Visualization%20with%20Amazon%20QuickSight%20and%20S3/README.md)
+
+### Project 3: Build a Chatbot with Amazon Lex
+- **Description**: This project focuses on building a chatbot with Amazon Lex and connecting AWS Lambda function with your Amazon Lex chatbot.
+- **Technologies Used**: Amazon Lex, AWS Lambda.
+- [Link to Project README](https://github.com/Medonati/AWS-Projects-Portfolio/blob/main/Build%20a%20Chatbot%20with%20Amazon%20Lex/README.md)
