@@ -8,7 +8,7 @@ If you're looking to create insightful data visualizations on a budget, Amazon Q
 
 **Prerequisite**
 
-1. **Have an AWS accoun**t. If you don’t have one, sign up here and enjoy the benefits of the Free-Tier Account
+1. **Have an AWS account**. If you don’t have one, sign up here [AWS console](https://aws.amazon.com/free/) and enjoy the benefits of the [Free-Tier Account](https://aws.amazon.com/free/)
 2. **Download the dataset** used netflix_titles.csv or feel free to make use of any dataset of your choice and also download the AWS QuickSight manifest file used to configure the data source on AWS QuickSight
 
 ## 📝 Step-by-Step Guide
