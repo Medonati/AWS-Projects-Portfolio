@@ -1,7 +1,7 @@
 # How to Build a Chatbot with Amazon Lex
 Building a chatbot is an exciting way to enhance user engagement and automate tasks, and Amazon Lex provides the perfect platform to make this possible. Amazon Lex, powered by AWS, leverages natural language understanding (NLU) and automatic speech recognition (ASR) to create intelligent, conversational bots with ease. In this blog post, I’ll guide you through the process of creating a chatbot using Amazon Lex, from setting up the environment to designing and testing your bot. Let’s dive into the world of intelligent conversational solutions!
 
-This README summarizes the key steps from the [full article](https://medon.hashnode.dev/how-to-build-a-chatbot-with-amazon-lex), authored by Ahmed Salau.
+This README summarizes the key steps from the [full article: How to Build a Chatbot with Amazon Lex](https://medon.hashnode.dev/how-to-build-a-chatbot-with-amazon-lex), authored by Ahmed Salau.
 
 ## Introduction
 Creating a chatbot with Amazon Lex allows you to build conversational interfaces for your applications with ease. Whether you’re developing a simple FAQ bot or a more complex task-driven bot, Amazon Lex provides the tools to design and deploy interactive bots.
