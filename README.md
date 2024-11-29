@@ -24,3 +24,8 @@ Browse through the variety of projects featured in this portfolio:
 - **Description**: This project focuses on building a chatbot with Amazon Lex and connecting AWS Lambda function with the chatbot.
 - **Technologies Used**: Amazon Lex, AWS Lambda.
 - [Link to Project README](https://github.com/Medonati/AWS-Projects-Portfolio/blob/main/Build%20a%20Chatbot%20with%20Amazon%20Lex/README.md)
+
+### Project 4: Cloud Security Best Practices with AWS IAM
+- **Description**: This project focuses on utilizing AWS IAM to manage access control for EC2 instances. The goal is to set up different environments (development and production) and control which users or groups have access to them.
+- **Technologies Used**: Amazon EC2, AWS IAM (Identity and Access Management), AWS Tags, IAM Policies.
+- [Link to Project README](https://github.com/Medonati/AWS-Projects-Portfolio/blob/main/Cloud%20Security%20Best%20Practices%20with%20AWS%20IAM/README.md)
